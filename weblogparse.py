@@ -1,4 +1,4 @@
-### Weblog Parser by Athir Redium ###
+### Weblog Parser by Scott Elgood ###
 ### 2020-02-16 ###
 ### Designed for the AWStats output but may work for others ### 
 import re
